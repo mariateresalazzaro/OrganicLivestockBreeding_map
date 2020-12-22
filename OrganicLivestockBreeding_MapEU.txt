@@ -16,5 +16,5 @@ Benchmark Genetics Norway	Organic ova of Atlantic salmon, SalmoBreed strain. Cer
 Association for Breeding and Preserving of the East Balkan Swine	Preserving of the last aboriginal pig breed in Bulgaria by means of keeping its traditional manner of pasturing - semi-wild in forest regions	BG	www.arsis-bg.org	43.2773818	26.9604215
 Društvo rejsec krškopoljskih prašičev - Krškopolje pig breed association	Breeding organisation of krškopolje pig breed.	SI	http://www.krskopoljski-prasic.si/	45.7995253	15.1591599
 ACOS - Agricultores do Sul	Genetic conservation of local breeds	PT	https://www.acos.pt/	38.0059795	-7.8552639
-Ökologische Tierzucht gGmbH	 An initiative of Bioland and Demeter. Organic breeding program for chicken and cattle in Germany	DE	https://www.oekotierzucht.de/	48.37289	1.9257862
+Ökologische Tierzucht gGmbH	 An initiative of Bioland and Demeter. Organic breeding program for chicken and cattle in Germany	DE	https://www.oekotierzucht.de/	48.37289	10.8884413
 Associazione RARE - Razze Autoctone a Rischio di Estinzione	RARE is the first association in Italy that deals with the protection, recovery and valorisation of autochthonous breeds of farm animals in danger of extinction.	IT	https://www.associazionerare.it/ 	45.0416738	7.6453413
